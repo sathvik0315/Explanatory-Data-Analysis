@@ -15,7 +15,7 @@
 - Products for selling: Mainly all-occasion gifts
 - Customers: Most are wholesalers (local or international)
 - Transactions Period Data : From 1st Dec 2010 to 9th Dec 2011 (One year)
-- 
+  
 ## Dataset Explanation
 ✔ InvoiceNo (invoice_num): A number assigned to each transaction  
 ✔ StockCode (stock_code): Product code  
