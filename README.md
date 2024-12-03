@@ -2,13 +2,13 @@
 
 - This project, led by me, is a mini college project aimed at performing explanatory data analysis using a dataset from Kaggle focused on an online retail company based in the United Kingdom.
 
-## Overview
+## Overview :
 🌟 The full form of EDA means Explanatory Data Analysis.  
 🌟 It is a process of performing initial investigations on data.  
 🌟 By doing this kind of analysis, it helps us to discover patterns and standards.  
 🌟 It clearly explains the summary of statistics and graphical representations.  
 
-## Outputs
+## Outputs :
 
 ![image](https://github.com/user-attachments/assets/ab765394-207f-4ce6-83c8-178f8e3e0856)
 
@@ -30,7 +30,7 @@
 
 ![image](https://github.com/user-attachments/assets/6d661fdc-55f5-4c47-a6fa-fc213d9929ab)
 
-### Dataset
+### Dataset :
 - e-Commerce domain
 - The dataset consists of transactional data with customers indifferent countries who make purchases from an online retail company based in the United Kingdom (UK).
 - Company: UK-based and online retail
@@ -38,7 +38,7 @@
 - Customers: Most are wholesalers (local or international)
 - Transactions Period Data : From 1st Dec 2010 to 9th Dec 2011 (One year)
   
-## Dataset Explanation
+## Dataset Explanation :
 ✔ InvoiceNo (invoice_num): A number assigned to each transaction  
 ✔ StockCode (stock_code): Product code  
 ✔ Description (description): Product name  
@@ -63,7 +63,7 @@ import seaborn as sns
 - visualizations.py: Script to generate pie charts, bar graphs, and other visualizations.
 - requirements.txt: List of dependencies for installing required libraries.
 
-## Results from EDA
+## Results from EDA :
 
 🌟 Highest Number of Orders from Specific Country  
 💰 Highest Money Spent on Purchases from Specific Country  
@@ -75,7 +75,7 @@ import seaborn as sns
 📉 Days with Decreasing Sales  
 ⏰ Hours with the Highest Number of Orders  
 
-## Contribution 
+## Contribution :
 
 Contributions to the project are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.  
 
