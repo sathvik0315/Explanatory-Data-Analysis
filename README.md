@@ -1,9 +1,9 @@
-# Explanatory-Data-Analysis
+# Exploratory-Data-Analysis
 
-- This project, led by me, is a mini college project aimed at performing explanatory data analysis using a dataset from Kaggle focused on an online retail company based in the United Kingdom.
+- This project, led by me, is a mini college project aimed at performing exploratory data analysis using a dataset from Kaggle focused on an online retail company based in the United Kingdom.
 
 ## Overview :
-🌟 The full form of EDA means Explanatory Data Analysis.  
+🌟 The full form of EDA means Exploratory Data Analysis.  
 🌟 It is a process of performing initial investigations on data.  
 🌟 By doing this kind of analysis, it helps us to discover patterns and standards.  
 🌟 It clearly explains the summary of statistics and graphical representations.  
